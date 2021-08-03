@@ -1,0 +1,19 @@
+{
+	"employees" : [
+		{
+			"name" : "Shailendra",
+			"surname" : "singh",
+			"age" : 22
+		},
+		{
+			"name" : "Vinod",
+			"surname" : "thapa",
+			"age" : 24
+		},
+		{
+			"name" : "Kyokushin",
+			"surname" : "karate",
+			"age" : 86
+		}
+	]
+}
